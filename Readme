@@ -1,0 +1,4 @@
+- Para el envio de los correos electrónicos se debe configurar el servidor de correo y la cuenta.
+- Se realiza una configuración muy básica de Persona (Antes stakeholder), no pude completarla.
+- Se configura una plantilla para las ordenes de compra.
+- Se configuran 2 consultas(Consulta de solicitudes y Consulta de ordenes de compra)
